@@ -1,5 +1,5 @@
 # trading-bot-dashboard
-A dashboard to track trading performace;
+A dashboard to track trading performace__
 Example dashboard: https://trading-bot-dashboard.fly.dev/
 
 # Requirement
