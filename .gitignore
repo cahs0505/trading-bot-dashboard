@@ -1,0 +1,6 @@
+#obviously
+.env
+node_modules
+fly.toml
+Dockerfile
+.build
