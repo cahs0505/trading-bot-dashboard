@@ -4,6 +4,7 @@ Example dashboard: https://trading-bot-dashboard.fly.dev/
 
 # Requirement
 Node.js v18.15.0<br />
+npm v9.5.0
 Mongodb v6.0.5 (and/or Mongodb Atlas)
 
 # Stack
