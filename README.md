@@ -1,5 +1,5 @@
 # trading-bot-dashboard
-A dashboard to track trading performace<br />
+A server and dashboard to track trading performace<br />
 Indicators include: APR, sharpe ratio, maximum drawdowns, return.
 Example dashboard: https://trading-bot-dashboard.fly.dev
 
