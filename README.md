@@ -1,5 +1,6 @@
 # trading-bot-dashboard
 A dashboard to track trading performace
+Example dashboard: https://trading-bot-dashboard.fly.dev/
 
 # Requirement
 Node.js v18.15.0
