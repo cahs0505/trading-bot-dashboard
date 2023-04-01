@@ -1,10 +1,13 @@
 # trading-bot-dashboard
 A dashboard to track trading performace
 
+# Requirement
+Node.js v18.15.0
+
 
 # Install
 ```
-git clone
+git clone https://github.com/cahs0505/trading-bot-dashboard.git
 npm install
 ```
 
