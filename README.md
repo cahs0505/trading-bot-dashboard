@@ -3,8 +3,17 @@ A dashboard to track trading performace<br />
 Example dashboard: https://trading-bot-dashboard.fly.dev/
 
 # Requirement
-Node.js v18.15.0
+Node.js v18.15.0<br />
+Mongodb v6.0.5 (and/or Mongodb Atlas)
 
+# Stack
+Node.js<br />
+React<br />
+Express<br />
+Mongodb <br />
+<br />
+Mongodb Atlas (deployment)<br />
+Fly.io (deployment)
 
 # Install
 ```
