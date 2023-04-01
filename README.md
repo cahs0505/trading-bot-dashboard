@@ -1,6 +1,7 @@
 # trading-bot-dashboard
 A dashboard to track trading performace<br />
-Example dashboard: https://trading-bot-dashboard.fly.dev/
+Indicators include: APR, sharpe ratio, maximum drawdowns, return.
+Example dashboard: https://trading-bot-dashboard.fly.dev
 
 # Requirement
 Node.js v18.15.0<br />
